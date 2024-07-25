@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://api-tv.ipnet.ua/media/channels-icons/2118742494.gif", Paramount Comedy
+#EXTINF:-1 tvg-logo="https://sweettv.com.ua/i/channels/512-comedy-central-hd.png", Paramount Comedy
 https://cdn4.ipnet.ua/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE5Mjg0ODQsInRpbWUiOjE3MjE4NDIwODQsImNoYW5uZWwiOjIxMTg3NDI0OTQsIm1hYyI6ImJyb3dzZXJfNzI2Njg5MDIifQ.CW-WK4Rk3aPOD_Z2BkXqh2rnAgMqSKl20xW45zChEx4/index.m3u8
 
-#EXTINF:-1, UPL.TV HD
+#EXTINF:-1 tvg-logo="https://sweettv.com.ua/i/channels/1873-upl-tv-hd.png", UPL.TV HD
 https://cdn2.ipnet.ua/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE5Mjg3ODksInRpbWUiOjE3MjE4NDIzODksImNoYW5uZWwiOjIxMTg3NDI2NzksIm1hYyI6ImJyb3dzZXJfODcxNDgxMzcifQ.6yB7Q9tvMOixfDYaHrWF0Gdwpgp9c9orQ1zVe3RBmlU/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-tv.ipnet.ua/media/channels-icons/2118742529.gif", Setanta Sports HD
+#EXTINF:-1 tvg-logo="https://sweettv.com.ua/i/channels/141-setanta-sports-hd.png", Setanta Sports HD
 https://cdn2.ipnet.ua/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE5MjQ1NDIsInRpbWUiOjE3MjE4MzgxNDIsImNoYW5uZWwiOjIxMTg3NDI1MjksIm1hYyI6ImJyb3dzZXJfODAzNDUzNjkifQ.4QSM7TvRMyECy7TxIMPF_9kgtIGbfF_anKYmAlbVrUM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-tv.ipnet.ua/media/channels-icons/2118742543.gif", Setanta Sports Plus HD
+#EXTINF:-1 tvg-logo="https://sweettv.com.ua/i/channels/479-setanta-sports-hd.png", Setanta Sports Plus HD
 https://cdn2.ipnet.ua/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE5MjUxMjgsInRpbWUiOjE3MjE4Mzg3MjgsImNoYW5uZWwiOjIxMTg3NDI1NDMsIm1hYyI6ImJyb3dzZXJfOTgxNDc3OTgifQ.TEkSkynvoAnZ-1dG2NedWxmh8jc0OmXVZcUx9rpVeKU/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-tv.ipnet.ua/media/channels-icons/2118742545.gif", 2+2 HD
+#EXTINF:-1 tvg-logo="https://sweettv.com.ua/i/channels/397-2-2-hd.png", 2+2 HD
 https://cdn4.ipnet.ua/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE5Mjg5NzgsInRpbWUiOjE3MjE4NDI1NzgsImNoYW5uZWwiOjIxMTg3NDI1NDUsIm1hYyI6ImJyb3dzZXJfMTI3MTQzNzUifQ._WlTWZuyLWq4rxCjLiWYeXkxgmYI9KdZiyGNf-QF8gs/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-tv.ipnet.ua/media/channels-icons/2118742531.gif", 1+1 HD
+#EXTINF:-1 tvg-logo="https://sweettv.com.ua/i/channels/1226-1-1-ukraina-hd.png", 1+1 HD
 https://cdn4.ipnet.ua/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE5Mjk0MjUsInRpbWUiOjE3MjE4NDMwMjUsImNoYW5uZWwiOjIxMTg3NDI1MzEsIm1hYyI6ImJyb3dzZXJfODM4ODA2NjUifQ.X3UEE7Q3pni9zufX2BGFTutuwEtL1wLl0xAzwSc-duU/index.m3u8
